@@ -1,0 +1,14 @@
+# Large data files
+data/*.csv
+inventory.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+data/.ipynb_checkpoints/
+
+# Logs
+logs/*.log
